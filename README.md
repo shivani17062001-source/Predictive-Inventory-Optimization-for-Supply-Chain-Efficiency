@@ -29,6 +29,7 @@ Setup Instructions
 Clone the Repository
 
 bashgit clone https://github.com/shivani17062001-source/Predictive-Inventory-Optimization-for-Supply-Chain-Efficiency
+
 cd invopt-supply-chain
 
 Install Dependencies
