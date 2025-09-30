@@ -1,4 +1,5 @@
  Project Overview 📊
+ 
 InvOpt Supply Chain tackles overstocking and stockouts with data-driven forecasting. Drawing from Shivani's expertise in Lean Six Sigma, BPMN modeling, and cloud platforms (AWS, Google BigQuery, Snowflake), this tool predicts demand, optimizes reorder points, and boosts efficiency—ideal for logistics and operations pros.
 Features ✨
 
